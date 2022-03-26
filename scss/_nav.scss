@@ -1,0 +1,20 @@
+/*---------BARRA DE NAVEGACION---------*/
+.logo{
+	height: 80px;
+	width: 100%;
+}
+
+.navbar-collapse{
+	justify-content: flex-end;
+	padding: 20px;
+}
+
+
+li.nav-item  {
+	padding: 15px;
+}
+
+.nav-link:hover{
+	transition: .5s;
+    transform: scale(1.1);
+}

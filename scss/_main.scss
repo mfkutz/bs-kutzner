@@ -1,0 +1,32 @@
+.nosotros-padding {
+	padding-top: 25px;
+}
+
+.button {  
+         width: 125px;                              
+         color: $colorPrimario;                             
+         border: 0px;                             
+         font-size: 20px;                          
+         margin-top: 1rem;                        
+         background-color: $transpNegro6;               
+         padding: 1rem;                            
+         border-radius: 5px;                       
+         transition: width 1s ;
+
+}
+.button:hover{                                      
+	background-color: $colorAzul;
+	transition: .5s;
+}
+
+.service_it{
+	padding-top: 20px;
+}
+
+.tecladorojo{
+	padding-top: 20px;
+}
+
+.mapa_p{
+    padding-top: 20px;
+}
